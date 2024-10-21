@@ -9,7 +9,7 @@ Hi 👋 My name is DIVYA KALAIVANI.G
 - 🌱 I’m currently learning : Java
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 How to reach me : (https://divyakalaivani.github.io/)
-- 📫 My Portfolio : https://github.com/divyakalaivani
+- 📫 My Portfolio : https://github.com/divyakalaivani123
 - ⚡ Fun fact : You know, who I'm!! 😜
 
 ## Profile Visits
